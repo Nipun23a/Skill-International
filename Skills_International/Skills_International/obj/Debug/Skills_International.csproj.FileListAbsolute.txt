@@ -1,0 +1,25 @@
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.csprojResolveAssemblyReference.cache
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.Form1.resources
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.Properties.Resources.resources
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.Registration.resources
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.GenerateResource.Cache
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.CoreCompileInputs.cache
+C:\Yasodhara\Skills_International\Skills_International\bin\Debug\Skills_International.exe.config
+C:\Yasodhara\Skills_International\Skills_International\bin\Debug\Skills_International.exe
+C:\Yasodhara\Skills_International\Skills_International\bin\Debug\Skills_International.pdb
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.exe
+C:\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.pdb
+D:\backup\Yasodhara\Skills_International\Skills_International\bin\Debug\Skills_International.exe.config
+D:\backup\Yasodhara\Skills_International\Skills_International\bin\Debug\Skills_International.exe
+D:\backup\Yasodhara\Skills_International\Skills_International\bin\Debug\Skills_International.pdb
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.AssemblyReference.cache
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.Form1.resources
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.Properties.Resources.resources
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.Registration.resources
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.GenerateResource.cache
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.CoreCompileInputs.cache
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.exe
+D:\backup\Yasodhara\Skills_International\Skills_International\obj\Debug\Skills_International.pdb
+C:\Users\nipun\OneDrive\Desktop\OOP Viva\final\Skills_International\Skills_International\obj\Debug\Skills_International.csproj.AssemblyReference.cache
+C:\Users\nipun\OneDrive\Desktop\OOP Viva\final\Skills_International\Skills_International\obj\Debug\Skills_International.exe
+C:\Users\nipun\OneDrive\Desktop\OOP Viva\final\Skills_International\Skills_International\obj\Debug\Skills_International.pdb
